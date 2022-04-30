@@ -1,1 +1,1 @@
-# mysqlCourse
+# MySQL Course
